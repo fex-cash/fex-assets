@@ -71,10 +71,6 @@
     "decimals":1,
     "symbol":"SHELL"
   },
-  "94bb97ae3c04916f92dd413f2b1b8052d8ab3d43ecffc3d6159a08a32aab15bb":{
-    "decimals":null,
-    "symbol":"FRUIT"
-  },
   "139725b53f8c3c56634cf0c5e1f5171efc71770fda32ce4df660b3106df6b90f":{
     "decimals":0,
     "symbol":"FART"
@@ -87,22 +83,6 @@
     "decimals":0,
     "symbol":"BURGER"
   },
-  "77037ee5bc5a1feb0d6985c2e4ef202db4e24880ae16e7f89315038d8e51acda":{
-    "decimals":null,
-    "symbol":"BDC"
-  },
-  "a4a88f8202bc88c8819b0beee3e1525ff6557f4160b25961556c2209745702d3":{
-    "decimals":null,
-    "symbol":"BDC"
-  },
-  "c7f15a09ece5f23e7679f200517fc7caf4068e2133cd9d95eb5263b18cb31676":{
-    "decimals":null,
-    "symbol":"BDC"
-  },
-  "07275f68d14780c737279898e730cec3a7b189a761caf43b4197b60a7c891a97":{
-    "decimals":null,
-    "symbol":"BITCAT"
-  },
   "67de609b49f2ece133664c90eb24abbef5fd5d0a795be19ac20bd1ca9e833b09":{
     "decimals":0,
     "symbol":"WAVE"
@@ -110,14 +90,6 @@
   "08a87d99f9451bdb5392b116cdcc7e0ba197598c31f090b0aeadec38070c0e07":{
     "decimals":2,
     "symbol":"BOT"
-  },
-  "1a696c1a3d7d9854a9c6031264a352a2f39c64a0791075faf75ee0f7ffb29583":{
-    "decimals":null,
-    "symbol":"COLOR"
-  },
-  "c72c77dc1df9c16957d07d97d2a580349c900c281d54e901988af31aa33eb7bb":{
-    "decimals":null,
-    "symbol":"SUN"
   },
   "738c3698bc464e842e2e4ee9906cbd4024e8fcbf5f0b15a72f6f4e75536333f2":{
     "decimals":18,
@@ -135,17 +107,9 @@
     "decimals":0,
     "symbol":"SMPL"
   },
-  "5ba789d817996eed3e74f432f6c4a1e3d604b76ebd5f85f15217bdc0af11a7c2":{
-    "decimals":null,
-    "symbol":"BCN"
-  },
   "30ed91a1cd60b6d1ff5b8f0e39cb3f008b34218ca900b59a7b386bb2e5c495a5":{
     "decimals":0,
     "symbol":"MUSIC"
-  },
-  "4b53fb421e760fa3d6d1250b921a7833a6dad04e3566314164059aa0afd987d6":{
-    "decimals":null,
-    "symbol":"LZGC"
   },
   "1cae6e23e4c0d4708f2aba4f8531e4f96cce2dc354e292559ed2c90e676c7af1":{
     "decimals":8,
@@ -187,18 +151,6 @@
     "decimals":0,
     "symbol":"cFLEX"
   },
-  "a27e6b5faea599146e73dd1362c7f61a2190e927d40bf50a3b5da34fa94522b7":{
-    "decimals":null,
-    "symbol":"$SST"
-  },
-  "437b090a8a6c53f22472f8d588154f2361c7616c419397888352f4db9f925665":{
-    "decimals":null,
-    "symbol":"$SST"
-  },
-  "26b2d0d7bba8b388d2098925f03557253c098fe486e4ef7a9e7216e29326bd62":{
-    "decimals":null,
-    "symbol":"$SST"
-  },
   "479d285ee9d52bbfc6283e3dab2d22d40b219ce6c14f3766c7de52059edded23":{
     "decimals":0,
     "symbol":"SST"
@@ -223,14 +175,6 @@
     "decimals":0,
     "symbol":"BCN"
   },
-  "815e4a26d403577593c1ea7c02c23925813d05af66534ddc000fbcf75f82d3c9":{
-    "decimals":null,
-    "symbol":"GRFT"
-  },
-  "5c5b57be56294d26861ec80fdc9b632ca380ca1176038ecf2ae1283b26d3ff98":{
-    "decimals":null,
-    "symbol":"W\u014dK"
-  },
   "8ff9fcfb641922aff6dd8e76c4b34d90db9667c772b4fef7b604db1af38db762":{
     "decimals":0,
     "symbol":"W\u014dK"
@@ -242,14 +186,6 @@
   "97f8e9340ea0db6961528fd95bc0a0710978a968923074ee302e5686de8a557e":{
     "decimals":0,
     "symbol":"WTF"
-  },
-  "31b807a082e03c0c6d411de7a5403ae45a0e45c96f8fb6321350cd55b6801abe":{
-    "decimals":null,
-    "symbol":"LUV"
-  },
-  "7a6388615b2357eac02453e27b3187bdd38823aa3e3c8665d8416e05596f70c4":{
-    "decimals":null,
-    "symbol":"LUV"
   },
   "b5fd9c3268fc4e8579eb0255a1e86863f3ea914da5fb388a883c57b4a5387cfb":{
     "decimals":8,
@@ -282,10 +218,6 @@
   "85f73400df0bb530cf66715513a5aeb5afb7fc6acd0c1c77bd4f7a58ff669d96":{
     "decimals":4,
     "symbol":"EXMP"
-  },
-  "56d1b6a7265ccfa224965026cec14984b342c19d07398c6ed4ebebf7ea8a48aa":{
-    "decimals":null,
-    "symbol":"EXNFT"
   },
   "a29acaa4ff06818e5fa6bcfd75f5e2f149c13777b072d08e52f3ae7f2a1e9b96":{
     "decimals":2,
